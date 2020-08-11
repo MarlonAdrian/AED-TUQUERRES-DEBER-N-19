@@ -41,7 +41,7 @@ void ArchivoPrueba(){
    string nombre;
    string apellido;
    int e;
-   char r,aux; //lectura y/o escritura de otro archivo
+   char r,aux; //lectura y/o escritura de otro Archivo
    ofstream archivoPrueba;
    string nombreArchivo;
 
